@@ -1,4 +1,4 @@
-# Procesamiento-de-Im-genes-y-Deep-Learning
+# Procesamiento-de-Imagenes-y-Deep-Learning
 
 Proyecto final presentadas el día 22 de octubre 
 Realizamos la clasificación de 40 imágenes de yoga, 8 imágenes por cada una de 5 distintas poses. Con el objetivo de poder identificar cada una de las diferentes poses.
